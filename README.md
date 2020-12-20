@@ -24,3 +24,6 @@ In git-bash
 
 To directly run the game, simply double-click on `CircleCollider.exe` in `/bin/x64/Debug/`.
 
+### Credits
+
+The assest has been downloaded from [LazyFooProductions](https://lazyfoo.net/)
