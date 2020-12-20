@@ -6,5 +6,5 @@ This is a rudimentary game where a dot spawned at the top left can be moved arou
 The code uses a basic implementation of collision detection between 1) Circle and Circle, 2) Circle and Rectangle.
 
 ## Usage
-To directly run the game, simply double-click on CircleCollider.exe in `/bin/x64/Debug/`.
+To directly run the game, simply double-click on `CircleCollider.exe` in `/bin/x64/Debug/`.
 
